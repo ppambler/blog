@@ -2,7 +2,7 @@
 
 ## ★前端
 
-- [fe-inbox](./fe-inbox.md)、[Tools](./tools/README.md)
+- [fe-inbox](./fe-inbox.md)、[tools](./tools/README.md)
 
 ### 体系课
 
